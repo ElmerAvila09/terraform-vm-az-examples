@@ -5,7 +5,7 @@
 # Terraform examples for VMs in azure
 
 ## Introduction
-This repositorie is a set of examples on how to use terrafom to deploy and provide basic resources in azure. 
+This repository is a set of examples on how to use terrafom to deploy and provide basic resources in azure. 
 Exampled retrieved and modified from https://github.com/hashicorp/terraform-provider-azurerm/tree/main/examples 
 
 ## Getting started
@@ -14,4 +14,4 @@ The usage of these examples suggests the basic knowledge of:
 - Infrastructure as Code concepts.
 
 ## Dependencies
-- [Terraform] (https://developer.hashicorp.com/terraform/downloads)
+- [Terraform](https://developer.hashicorp.com/terraform/downloads)
